@@ -7,7 +7,7 @@ Let's start with a vector field $\mathbf{F}$.  Using Helmholtz theorem, $\mathbf
  
 $\mathbf{F} = \mathbf{A} + \mathbf{B} = -\nabla U + \nabla \times \mathbf{W}$
 
-where U is a scalar function and $\Vec{\mathbf{W}}$ is a vector function.  U and $\mathbf{W}$ can be found using the Helmholtz decomposition:
+where U is a scalar function and $\mathbf{W}$ is a vector function.  U and $\mathbf{W}$ can be found using the Helmholtz decomposition:
 
 $U(\mathbf{r}) = \frac{1}{4\pi} \int \frac{C(\mathbf{r}')}{|\mathbf{r}-\mathbf{r}'|} d\tau' $
 
